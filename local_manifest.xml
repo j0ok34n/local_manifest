@@ -10,5 +10,6 @@
         <project path="vendor/oneplus/sm8250-common" name="vendor_oneplus_sm8250-common" remote="j0ok34n" revision="thirteen" clone-depth="1" />
         <project path="vendor/oneplus/extras" name="vendor_oneplus_extras" remote="j0ok34n" revision="12" clone-depth="1" />
         <project path="kernel/oneplus/sm8250" name="android_kernel_oneplus_sm8250" remote="Lineage" revision="lineage-19.1" clone-depth="1" />
+        <project path="vendor/oneplus/kebab" name="vendor_oneplus_kebab" remote="j0ok34n" revision="tiramisu" clone-depth="1" />
                 
 </manifest> 
