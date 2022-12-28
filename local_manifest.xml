@@ -2,13 +2,13 @@
 <manifest>
         
     <remote  name="j0ok34n" fetch="https://github.com/j0ok34n" />
-    <remote  name="LineageOS" fetch="https://github.com/LineageOS" />
+    <remote  name="Lineage" fetch="https://github.com/LineageOS" />
      
         <!-- Sync trees -->
         <project path="device/oneplus/kebab" name="device_oneplus_kebab" remote="j0ok34n" revision="awaken" clone-depth="1" />
-        <project path="device/oneplus/sm8250-common" name="android_device_oneplus_sm8250-common" remote="LineageOS" revision="lineage-19.1" clone-depth="1" />
+        <project path="device/oneplus/sm8250-common" name="android_device_oneplus_sm8250-common" remote="Lineage" revision="lineage-19.1" clone-depth="1" />
         <project path="vendor/oneplus/sm8250-common" name="vendor_oneplus_sm8250-common" remote="j0ok34n" revision="thirteen" clone-depth="1" />
         <project path="vendor/oneplus/extras" name="vendor_oneplus_extras" remote="j0ok34n" revision="12" clone-depth="1" />
-        <project path="kernel/oneplus/sm8250" name="kernel_oneplus_sm8250" remote="LineageOS" revision="lineage-19.1" clone-depth="1" />
+        <project path="kernel/oneplus/sm8250" name="kernel_oneplus_sm8250" remote="Lineage" revision="lineage-19.1" clone-depth="1" />
                 
 </manifest> 
