@@ -7,7 +7,7 @@
         <!-- Sync trees -->
         <project path="device/xiaomi/mondrian" name="device_xiaomi_mondrian" remote="flakeforever" clone-depth="1" revision="peplus-13"/>
         <project path="vendor/xiaomi/mondrian" name="vendor_xiaomi_mondrian" remote="flakeforever" clone-depth="1" />
-        <project path="vendor/xiaomi/camera" name="vendor_xiaomi_camera" remote="flakeforever" clone-depth="1" />
+        <project path="vendor/xiaomi/camera" name="vendor_xiaomi_camera" remote="flakeforever" clone-depth="1" revision="holybear" />
         <project path="kernel/xiaomi/mondrian" name="android_kernel_xiaomi_sm8475" remote="LowTension" clone-depth="1" />
                 
 </manifest> 
